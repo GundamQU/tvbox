@@ -16,10 +16,10 @@ CCTV-3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3,http://39.134.66.66/PLTV/88888888/224/3221225799/index.m3u8
 CCTV-3,http://39.134.66.2/PLTV/88888888/224/3221225799/index.m3u8
 
+CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-4,http://39.134.66.110/PLTV/88888888/224/3221225797/index.m3u8
 CCTV-4,http://39.134.66.66/PLTV/88888888/224/3221225797/index.m3u8
 CCTV-4,http://39.134.66.2/PLTV/88888888/224/3221225797/index.m3u8
-CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 
 CCTV-5,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-5,http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
@@ -97,7 +97,7 @@ CCTV-17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-17,http://39.134.66.2/PLTV/88888888/224/3221225708/index.m3u8
 CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 
-🇨🇳｜凤 凰 台,#genre#	
+🇨🇳|香港频道,#genre#	
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
@@ -154,9 +154,6 @@ CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 爱动漫,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 CCTV-14少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14少儿,http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-14少儿,http://39.134.66.2/PLTV/88888888/224/3221225674/index.m3u8
