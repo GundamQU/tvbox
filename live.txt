@@ -95,6 +95,40 @@ CCTV-16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
+
+
+
+
+http://39.134.136.161:6610/000000001000/reallive-cctv1/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv1
+http://39.134.136.161:6610/000000001000/reallive-cctv2/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv2
+http://39.134.136.161:6610/000000001000/reallive-cctv3/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv3
+http://39.134.136.161:6610/000000001000/reallive-cctv4/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv4
+http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv5
+http://39.134.136.161:6610/000000001000/reallive-cctv6/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv6
+http://39.134.136.161:6610/000000001000/reallive-cctv7/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv7
+http://39.134.136.161:6610/000000001000/reallive-cctv8/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv8
+http://39.134.136.161:6610/000000001000/reallive-cctv9/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv9
+http://39.134.136.161:6610/000000001000/reallive-cctv10/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv10
+http://39.134.136.161:6610/000000001000/reallive-cctv11/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv11
+http://39.134.136.161:6610/000000001000/reallive-cctv12/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv12
+http://39.134.136.161:6610/000000001000/reallive-cctv13/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv13
+http://39.134.136.161:6610/000000001000/reallive-cctv14/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv14
+http://39.134.136.161:6610/000000001000/reallive-cctv15/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv15
+http://39.134.136.161:6610/000000001000/reallive-cctv16/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv16
+http://39.134.136.161:6610/000000001000/reallive-cctv17/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv17
+
+
+
+
+
+
+
+
+
+
+
+
+
 🇨🇳｜少儿频道,#genre#
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 
