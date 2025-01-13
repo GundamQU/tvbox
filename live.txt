@@ -150,6 +150,7 @@ CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/inde
 黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 
 金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+金鹰卡通,http://phonealihd.qing.mgtv.com/nn_live/nn_x64/dWlwPTE5OC4xODEuNDcuOTAmcWlkPSZjZG5leF9pZD1hbF9waG9uZTQmcz1kNTI0NjcwODg0YmRjZGI5NmM0NTliOTVkNmQ1Yzg4ZCZ1aWQ9JnV1aWQ9ODcxZjNlOWZlNTFmMDBjNzZmYmU4Yzg5ZTZjZDlhYjAtYzZiNTJmNWEmdj0yJmFzPTAmZXM9MTczNjkwNjk4OQ,,/JYKTMPP360.m3u8
 
 优漫卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 
